@@ -1,6 +1,6 @@
 cask "untl" do
-  version "0.9.1"
-  sha256 "b64f93213a3d1a9076e3910b012fdba48b410fda8127e3250b28f1154bece81b"
+  version "0.9.2"
+  sha256 "2bc20ca2b345e2ac8dc1bdf27b0aad3aa08d3f5f81ccb9dd58ceb7237388a46b"
 
   url "https://github.com/NateDevJ/untl-releases/releases/download/v#{version}/Untl-#{version}.dmg"
   name "Untl"
